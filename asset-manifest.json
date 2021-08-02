@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/journey_prototype/static/css/main.0c529c6f.chunk.css",
+    "main.js": "/journey_prototype/static/js/main.a0587da1.chunk.js",
+    "main.js.map": "/journey_prototype/static/js/main.a0587da1.chunk.js.map",
+    "runtime-main.js": "/journey_prototype/static/js/runtime-main.d535351c.js",
+    "runtime-main.js.map": "/journey_prototype/static/js/runtime-main.d535351c.js.map",
+    "static/js/2.e4f178b5.chunk.js": "/journey_prototype/static/js/2.e4f178b5.chunk.js",
+    "static/js/2.e4f178b5.chunk.js.map": "/journey_prototype/static/js/2.e4f178b5.chunk.js.map",
+    "static/js/3.438f504f.chunk.js": "/journey_prototype/static/js/3.438f504f.chunk.js",
+    "static/js/3.438f504f.chunk.js.map": "/journey_prototype/static/js/3.438f504f.chunk.js.map",
+    "index.html": "/journey_prototype/index.html",
+    "static/css/main.0c529c6f.chunk.css.map": "/journey_prototype/static/css/main.0c529c6f.chunk.css.map",
+    "static/js/2.e4f178b5.chunk.js.LICENSE.txt": "/journey_prototype/static/js/2.e4f178b5.chunk.js.LICENSE.txt",
+    "static/media/logo.35196d1c.png": "/journey_prototype/static/media/logo.35196d1c.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d535351c.js",
+    "static/js/2.e4f178b5.chunk.js",
+    "static/css/main.0c529c6f.chunk.css",
+    "static/js/main.a0587da1.chunk.js"
+  ]
+}
