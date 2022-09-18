@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.34e90352.chunk.css",
-    "main.js": "/static/js/main.a901681f.chunk.js",
-    "main.js.map": "/static/js/main.a901681f.chunk.js.map",
+    "main.js": "/static/js/main.8ea77d20.chunk.js",
+    "main.js.map": "/static/js/main.8ea77d20.chunk.js.map",
     "reactPlayerDailyMotion.js": "/static/js/reactPlayerDailyMotion.771dfcd2.chunk.js",
     "reactPlayerDailyMotion.js.map": "/static/js/reactPlayerDailyMotion.771dfcd2.chunk.js.map",
     "reactPlayerFacebook.js": "/static/js/reactPlayerFacebook.e41d0edd.chunk.js",
@@ -32,23 +32,25 @@
     "runtime-main.js": "/static/js/runtime-main.e3213ff0.js",
     "runtime-main.js.map": "/static/js/runtime-main.e3213ff0.js.map",
     "static/css/15.01ace8df.chunk.css": "/static/css/15.01ace8df.chunk.css",
-    "static/js/15.1ab1eabb.chunk.js": "/static/js/15.1ab1eabb.chunk.js",
-    "static/js/15.1ab1eabb.chunk.js.map": "/static/js/15.1ab1eabb.chunk.js.map",
+    "static/js/15.53194c2f.chunk.js": "/static/js/15.53194c2f.chunk.js",
+    "static/js/15.53194c2f.chunk.js.map": "/static/js/15.53194c2f.chunk.js.map",
     "static/js/16.e8fa0076.chunk.js": "/static/js/16.e8fa0076.chunk.js",
     "static/js/16.e8fa0076.chunk.js.map": "/static/js/16.e8fa0076.chunk.js.map",
     "index.html": "/index.html",
     "static/css/15.01ace8df.chunk.css.map": "/static/css/15.01ace8df.chunk.css.map",
     "static/css/main.34e90352.chunk.css.map": "/static/css/main.34e90352.chunk.css.map",
-    "static/js/15.1ab1eabb.chunk.js.LICENSE.txt": "/static/js/15.1ab1eabb.chunk.js.LICENSE.txt",
+    "static/js/15.53194c2f.chunk.js.LICENSE.txt": "/static/js/15.53194c2f.chunk.js.LICENSE.txt",
     "static/media/RETI_map.591eed69.svg": "/static/media/RETI_map.591eed69.svg",
     "static/media/dx.light.css": "/static/media/dxicons.d8b3a23c.ttf",
-    "static/media/logo.186f82fe.png": "/static/media/logo.186f82fe.png"
+    "static/media/journey_logo_with_text.32981454.png": "/static/media/journey_logo_with_text.32981454.png",
+    "static/media/logo.186f82fe.png": "/static/media/logo.186f82fe.png",
+    "static/media/powered_by_journey.b12f6642.png": "/static/media/powered_by_journey.b12f6642.png"
   },
   "entrypoints": [
     "static/js/runtime-main.e3213ff0.js",
     "static/css/15.01ace8df.chunk.css",
-    "static/js/15.1ab1eabb.chunk.js",
+    "static/js/15.53194c2f.chunk.js",
     "static/css/main.34e90352.chunk.css",
-    "static/js/main.a901681f.chunk.js"
+    "static/js/main.8ea77d20.chunk.js"
   ]
 }
